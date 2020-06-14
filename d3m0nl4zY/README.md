@@ -80,3 +80,4 @@ print(flag)
 		}
 	}
 ```
+- Flag: HCMUS-CTF{N3v3r_Us3_srand_time_0}
