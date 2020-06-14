@@ -26,7 +26,7 @@
 ## StackString
 - Decompiler stackstring with Ghidra Tool:
 - In function main you will see:
-- ![alt text](https://github.com/1712249/HCMUS-CTF/blob/master/stackstring.png)
+- ![alt text](https://github.com/1712249/HCMUS-CTF_Capoo/blob/master/vinhph/stackstring.png)
 - Hexdecode you get:
 - local_50:}3
 - local_70:_Kc4tS{F
